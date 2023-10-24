@@ -7,13 +7,13 @@ border-color: rgb(26, 24, 24);
 }
 .ing{
     color:bisque;
-    margin-left: 33% ;
+    margin-left: 35% ;
     width:fit-content;
     font-family: "Libre Baskerville", serif;
 }
 .sadying{
     color:antiquewhite;
-    margin-left: 33%;
+    margin-left: 35%;
     font-family: "Libre Baskerville", serif;
     width:fit-content
 }
@@ -22,7 +22,6 @@ html{
     
 }
 #myAudio{
-    position:relative;
-    margin-bottom: -50px;
+    margin-top: 500px;
     color:black
 }
